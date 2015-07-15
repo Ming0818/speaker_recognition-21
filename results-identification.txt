@@ -1,0 +1,1336 @@
+2015-03-26 23:35:13.715000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 100, max_depth = 50
+size = 324, rigth = 229, 70.6790123457
+
+
+2015-03-27 01:18:47.554000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 110, max_depth = 50
+size = 324, rigth = 230, 70.987654321
+
+
+2015-03-27 00:34:04.371000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 120, max_depth = 50
+size = 324, rigth = 225, 69.4444444444
+
+
+2015-03-27 01:48:00.062000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 130, max_depth = 50
+size = 324, rigth = 223, 68.8271604938
+
+
+2015-03-27 02:13:24.941000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 140, max_depth = 50
+size = 324, rigth = 237, 73.1481481481
+
+
+2015-03-27 02:39:30.059000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 150, max_depth = 50
+size = 324, rigth = 234, 72.2222222222
+
+
+2015-03-27 03:03:59.813000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 160, max_depth = 50
+size = 324, rigth = 240, 74.0740740741
+
+
+2015-03-27 03:33:50.407000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 170, max_depth = 50
+size = 324, rigth = 227, 70.0617283951
+
+
+2015-03-27 04:01:28.611000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 180, max_depth = 50
+size = 324, rigth = 228, 70.3703703704
+
+
+2015-03-27 04:29:14.111000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 190, max_depth = 50
+size = 324, rigth = 227, 70.0617283951
+
+
+2015-03-27 04:57:31.825000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 200, max_depth = 50
+size = 324, rigth = 238, 73.4567901235
+
+
+2015-03-27 15:42:47.650000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 100, max_depth = None
+size = 324, rigth = 226, 69.7530864198
+
+
+2015-03-27 16:09:21.943000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 110, max_depth = None
+size = 324, rigth = 228, 70.3703703704
+
+
+2015-03-27 16:33:18.591000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 120, max_depth = None
+size = 324, rigth = 224, 69.1358024691
+
+
+2015-03-27 17:06:42.434000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 130, max_depth = None
+size = 324, rigth = 226, 69.7530864198
+
+
+2015-03-27 17:28:30.734000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 140, max_depth = None
+size = 324, rigth = 224, 69.1358024691
+
+
+2015-03-27 17:52:59.124000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 150, max_depth = None
+size = 324, rigth = 233, 71.9135802469
+
+
+2015-03-27 21:02:15.356000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 160, max_depth = None
+size = 324, rigth = 232, 71.6049382716
+
+
+2015-03-27 21:34:49.074000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 170, max_depth = None
+size = 324, rigth = 229, 70.6790123457
+
+
+2015-03-27 22:06:35.969000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 180, max_depth = None
+size = 324, rigth = 231, 71.2962962963
+
+
+2015-03-27 22:36:30.911000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 200, max_depth = None
+size = 324, rigth = 234, 72.2222222222
+
+
+2015-03-27 23:08:17.384000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 230, max_depth = None
+size = 324, rigth = 234, 72.2222222222
+
+
+2015-03-28 00:00:21.621000
+RandomForestClassifier
+vectorsAverage
+set = 150, trees = 100, max_depth = None
+size = 324, rigth = 235, 72.5308641975
+
+
+2015-03-28 00:39:37.148000
+RandomForestClassifier
+vectorsAverage
+set = 150, trees = 110, max_depth = None
+size = 324, rigth = 238, 73.4567901235
+
+
+2015-03-26 21:39:49.392000
+RandomForestClassifier
+vectorsAverage
+set = 150 ,trees = 100 ,max_depth = 50
+size = 324, rigth = 231, 71.2962962963
+
+
+2015-03-26 22:27:26.730000
+RandomForestClassifier
+vectorsAverage
+set = 150 ,trees = 110 ,max_depth = 50
+size = 324, rigth = 233, 71.9135802469
+
+
+2015-03-29 00:09:37.810000
+RandomForestClassifier
+vectorsAverage
+set = 150, trees = 120, max_depth = 10
+size = 324, rigth = 219, 67.5925925926
+
+
+2015-03-29 18:39:44.358000
+RandomForestClassifier
+vectorsAverage
+set = 150, trees = 140, max_depth = 10
+size = 324, rigth = 212, 65.4320987654
+
+
+2015-03-29 19:20:48.902000
+RandomForestClassifier
+vectorsAverage
+set = 150, trees = 110, max_depth = None
+size = 324, rigth = 238, 73.4567901235
+
+
+2015-03-29 20:14:13.427000
+RandomForestClassifier
+vectorsAverage
+set = 150, trees = 110, max_depth = None
+size = 324, rigth = 235, 72.5308641975
+
+//////////////////////////////////////////////////////////////////////////////
+
+2015-04-07 17:39:13.603000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 100, max_depth = 50
+Train set: size = 10800, rigth = 10800, 100.0
+Test set: size = 324, rigth = 234, 72.2222222222
+
+
+2015-04-07 17:59:00.980000
+RandomForestClassifier
+vectorsAverage
+set = 100, trees = 100, max_depth = 50
+Train set: size = 10800, rigth = 10800, 100.0
+Test set: size = 324, rigth = 225, 69.4444444444
+
+
+2015-04-07 18:15:06.448000
+RandomForestClassifier
+vectorsAverage
+set = 10, trees = 10, max_depth = 50
+Train set: size = 1080, rigth = 1079, 99.9074074074
+Test set: size = 324, rigth = 197, 60.8024691358
+
+
+2015-04-07 18:17:44.637000
+RandomForestClassifier
+vectorsAverage
+set = 10, trees = 10, max_depth = 10
+Train set: size = 1080, rigth = 963, 89.1666666667
+Test set: size = 324, rigth = 183, 56.4814814815
+
+
+2015-04-07 21:04:26.930000
+RandomForestClassifier
+vectorsAverage
+set = 150, trees = 100, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 324, rigth = 224, 69.1358024691
+
+
+2015-04-07 21:22:18.656000
+RandomForestClassifier
+vectorsAverage
+set = 130, trees = 100, max_depth = None
+Train set: size = 14040, rigth = 14040, 100.0
+Test set: size = 324, rigth = 243, 75.0
+
+
+2015-04-07 22:06:22.509000
+RandomForestClassifier
+vectorsAverage
+set = 110, trees = 100, max_depth = None
+Train set: size = 11880, rigth = 11880, 100.0
+Test set: size = 324, rigth = 215, 66.3580246914
+
+
+2015-04-07 22:41:53.342000
+RandomForestClassifier
+vectorsAverage
+set = 90, trees = 100, max_depth = None
+Train set: size = 9720, rigth = 9720, 100.0
+Test set: size = 324, rigth = 220, 67.9012345679
+
+
+2015-04-07 23:28:13.935000
+RandomForestClassifier
+vectorsAverage
+set = 150, trees = 80, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 324, rigth = 240, 74.0740740741
+
+
+2015-04-08 00:06:24.202000
+RandomForestClassifier
+vectorsAverage
+set = 150, trees = 60, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 324, rigth = 222, 68.5185185185
+
+//////////////////////////////////////////////////////////////////
+
+2015-04-09 23:03:21.662000
+RandomForestClassifier
+vectorsAverage
+entropy
+set = 150, trees = 100, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 324, rigth = 228, 70.3703703704
+
+
+2015-04-09 23:57:07.503000
+RandomForestClassifier
+vectorsAverage
+entropy
+set = 150, trees = 110, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 324, rigth = 224, 69.1358024691
+
+
+2015-04-10 13:58:41.623000
+RandomForestClassifier
+vectorsAverage
+set = 150, trees = 110, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 324, rigth = 223, 68.8271604938
+
+
+2015-04-10 14:50:10.868000
+RandomForestClassifier
+vectorsAverage
+set = 150, trees = 110, max_depth = 50
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 324, rigth = 223, 68.8271604938
+
+
+2015-04-16 01:53:51.510000
+RandomForestClassifier
+vectorsAverage
+set = 150, trees = 110, max_depth = 50
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 324, rigth = 222, 68.5185185185
+
+
+2015-04-16 15:15:35.554000
+RandomForestClassifier
+vectorsAverage
+set = 150, trees = 110, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 324, rigth = 237, 73.1481481481
+
+
+2015-04-16 16:04:03.297000
+RandomForestClassifier
+vectorsAverage
+set = 150, trees = 110, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 790, 73.1481481481
+
+
+2015-04-16 19:01:44.596000
+RandomForestClassifier
+vectorsAverage
+set = 150, trees = 110, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 788, 72.962962963
+
+
+2015-04-16 19:41:11.635000
+RandomForestClassifier
+vectorsAverage
+set = 150, trees = 110, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 768, 71.1111111111
+
+
+2015-04-16 21:31:12.752000
+RandomForestClassifier
+KMeans,2
+set = 150, trees = 110, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 914, 84.6296296296
+
+
+2015-04-16 23:14:36.376000
+RandomForestClassifier
+KMeans,3
+set = 150, trees = 110, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 882, 81.6666666667
+
+
+2015-04-17 01:22:32.785000
+RandomForestClassifier
+KMeans,7
+set = 150, trees = 110, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 631, 58.4259259259
+
+
+2015-04-17 02:50:28.917000
+RandomForestClassifier
+KMeans,4
+set = 150, trees = 110, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 797, 73.7962962963
+
+
+2015-04-17 03:28:24.485000
+RandomForestClassifier
+KMeans,2
+set = 150, trees = 110, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 894, 82.7777777778
+
+
+2015-04-19 17:05:00.419000
+RandomForestClassifier
+kmean or MiniBatchKMeans,2
+set = 150, trees = 110, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 885, 81.9444444444
+
+
+2015-04-19 18:24:54.539000
+RandomForestClassifier
+makeSuperVecGMM,2
+set = 150, trees = 110, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 884, 81.8518518519
+
+
+2015-04-19 19:32:49.098000
+RandomForestClassifier
+vectorsAverage, 20 mfcc
+set = 150, trees = 110, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 975, 90.2777777778
+
+
+2015-04-19 20:11:44.315000
+RandomForestClassifier
+vectorsAverage, 25 mfcc
+set = 150, trees = 110, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1016, 94.0740740741
+
+
+2015-04-19 20:47:57.646000
+RandomForestClassifier
+vectorsAverage,30 mfcc
+set = 150, trees = 110, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1010, 93.5185185185
+
+
+2015-04-19 22:06:40.467000
+RandomForestClassifier
+KMeans,2, 25 mfcc
+set = 150, trees = 110, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1024, 94.8148148148
+
+
+2015-04-19 23:12:02.746000
+RandomForestClassifier
+KMeans,2, 20 mfcc
+set = 150, trees = 110, max_depth = None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1005, 93.0555555556
+
+////////////////////////////////////////////////////////////////////////
+2015-06-04 00:23:15.833000
+RandomForestClassifier
+KMeans,2, 13-30 mfcc
+set = 150, trees = 100, max_depth = 50, coeff = 13
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 787, 72.8703703704
+
+
+2015-06-04 01:14:26.820000
+RandomForestClassifier
+KMeans,2, 13-30 mfcc
+set = 150, trees = 100, max_depth = 50, coeff = 14
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 842, 77.962962963
+
+
+2015-06-04 02:07:07.951000
+RandomForestClassifier
+KMeans,2, 13-30 mfcc
+set = 150, trees = 100, max_depth = 50, coeff = 15
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 875, 81.0185185185
+
+
+2015-06-04 02:59:05.151000
+RandomForestClassifier
+KMeans,2, 13-30 mfcc
+set = 150, trees = 100, max_depth = 50, coeff = 16
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 909, 84.1666666667
+
+
+2015-06-04 03:53:58.149000
+RandomForestClassifier
+KMeans,2, 13-30 mfcc
+set = 150, trees = 100, max_depth = 50, coeff = 17
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 937, 86.7592592593
+
+
+2015-06-04 04:42:40.267000
+RandomForestClassifier
+KMeans,2, 13-30 mfcc
+set = 150, trees = 100, max_depth = 50, coeff = 18
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 950, 87.962962963
+
+
+2015-06-04 05:28:32.597000
+RandomForestClassifier
+KMeans,2, 13-30 mfcc
+set = 150, trees = 100, max_depth = 50, coeff = 19
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 957, 88.6111111111
+
+
+2015-06-04 06:14:31.365000
+RandomForestClassifier
+KMeans,2, 13-30 mfcc
+set = 150, trees = 100, max_depth = 50, coeff = 20
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 972, 90.0
+
+
+2015-06-04 07:00:30.554000
+RandomForestClassifier
+KMeans,2, 13-30 mfcc
+set = 150, trees = 100, max_depth = 50, coeff = 21
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 978, 90.5555555556
+
+
+2015-06-04 07:46:09.865000
+RandomForestClassifier
+KMeans,2, 13-30 mfcc
+set = 150, trees = 100, max_depth = 50, coeff = 22
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 994, 92.037037037
+
+
+2015-06-04 08:32:20.423000
+RandomForestClassifier
+KMeans,2, 13-30 mfcc
+set = 150, trees = 100, max_depth = 50, coeff = 23
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1002, 92.7777777778
+
+
+2015-06-04 09:17:47.881000
+RandomForestClassifier
+KMeans,2, 13-30 mfcc
+set = 150, trees = 100, max_depth = 50, coeff = 24
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1011, 93.6111111111
+
+
+2015-06-04 10:03:23.586000
+RandomForestClassifier
+KMeans,2, 13-30 mfcc
+set = 150, trees = 100, max_depth = 50, coeff = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1003, 92.8703703704
+
+
+2015-06-04 10:49:04.250000
+RandomForestClassifier
+KMeans,2, 13-30 mfcc
+set = 150, trees = 100, max_depth = 50, coeff = 26
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1024, 94.8148148148
+
+
+2015-06-04 11:35:51.682000
+RandomForestClassifier
+KMeans,2, 13-30 mfcc
+set = 150, trees = 100, max_depth = 50, coeff = 27
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1015, 93.9814814815
+
+
+2015-06-04 12:27:01.028000
+RandomForestClassifier
+KMeans,2, 13-30 mfcc
+set = 150, trees = 100, max_depth = 50, coeff = 28
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1010, 93.5185185185
+
+
+2015-06-04 13:31:13.157000
+RandomForestClassifier
+KMeans,2, 13-30 mfcc
+set = 150, trees = 100, max_depth = 50, coeff = 29
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1015, 93.9814814815
+/////////////////////////////////////////////////////////////////////
+
+
+2015-06-04 15:42:46.368000
+RandomForestClassifier
+VecAver, 13
+set = 150, trees = 10, max_depth = 50
+Train set: size = 16200, rigth = 16163, 99.7716049383
+Test set: size = 1080, rigth = 631, 58.4259259259
+
+
+2015-06-04 15:43:00.494000
+RandomForestClassifier
+VecAver, 13
+set = 150, trees = 20, max_depth = 50
+Train set: size = 16200, rigth = 16197, 99.9814814815
+Test set: size = 1080, rigth = 702, 65.0
+
+
+2015-06-04 15:43:19.825000
+RandomForestClassifier
+VecAver, 13
+set = 150, trees = 30, max_depth = 50
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 741, 68.6111111111
+
+
+2015-06-04 15:43:44.568000
+RandomForestClassifier
+VecAver, 13
+set = 150, trees = 40, max_depth = 50
+Train set: size = 16200, rigth = 16199, 99.9938271605
+Test set: size = 1080, rigth = 738, 68.3333333333
+
+
+2015-06-04 15:44:18.768000
+RandomForestClassifier
+VecAver, 13
+set = 150, trees = 50, max_depth = 50
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 753, 69.7222222222
+
+
+2015-06-04 15:44:57.585000
+RandomForestClassifier
+VecAver, 13
+set = 150, trees = 60, max_depth = 50
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 762, 70.5555555556
+
+
+2015-06-04 15:45:43.275000
+RandomForestClassifier
+VecAver, 13
+set = 150, trees = 70, max_depth = 50
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 783, 72.5
+
+
+2015-06-04 15:46:39.079000
+RandomForestClassifier
+VecAver, 13
+set = 150, trees = 80, max_depth = 50
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 774, 71.6666666667
+
+
+2015-06-04 15:47:38.898000
+RandomForestClassifier
+VecAver, 13
+set = 150, trees = 90, max_depth = 50
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 763, 70.6481481481
+
+
+2015-06-04 15:48:40.598000
+RandomForestClassifier
+VecAver, 13
+set = 150, trees = 100, max_depth = 50
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 777, 71.9444444444
+////////////////////////////////////////////////////////////////////
+
+
+2015-06-04 17:10:53.640000
+RandomForestClassifier
+VecKmean 2, 13
+set = 150, trees = 10, max_depth = 50
+Train set: size = 16200, rigth = 16185, 99.9074074074
+Test set: size = 1080, rigth = 719, 66.5740740741
+
+
+2015-06-04 17:11:17.117000
+RandomForestClassifier
+VecKmean 2, 13
+set = 150, trees = 20, max_depth = 50
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 808, 74.8148148148
+
+
+2015-06-04 17:11:52.147000
+RandomForestClassifier
+VecKmean 2, 13
+set = 150, trees = 30, max_depth = 50
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 831, 76.9444444444
+
+
+2015-06-04 17:12:36.376000
+RandomForestClassifier
+VecKmean 2, 13
+set = 150, trees = 40, max_depth = 50
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 856, 79.2592592593
+
+
+2015-06-04 17:13:31.085000
+RandomForestClassifier
+VecKmean 2, 13
+set = 150, trees = 50, max_depth = 50
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 874, 80.9259259259
+
+
+2015-06-04 17:14:36.967000
+RandomForestClassifier
+VecKmean 2, 13
+set = 150, trees = 60, max_depth = 50
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 887, 82.1296296296
+
+
+2015-06-04 17:16:00.182000
+RandomForestClassifier
+VecKmean 2, 13
+set = 150, trees = 70, max_depth = 50
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 899, 83.2407407407
+
+
+2015-06-04 17:17:35.755000
+RandomForestClassifier
+VecKmean 2, 13
+set = 150, trees = 80, max_depth = 50
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 908, 84.0740740741
+
+
+2015-06-04 17:19:19.890000
+RandomForestClassifier
+VecKmean 2, 13
+set = 150, trees = 90, max_depth = 50
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 897, 83.0555555556
+
+
+2015-06-04 17:21:19.604000
+RandomForestClassifier
+VecKmean 2, 13
+set = 150, trees = 100, max_depth = 50
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 904, 83.7037037037
+///////////////////////////////////////////////////////////////////
+
+
+2015-06-05 00:08:52.180000
+RandomForestClassifier
+VecKmean 2, 13
+set = 150, trees = 50, max_depth = 5
+Train set: size = 16200, rigth = 7865, 48.549382716
+Test set: size = 1080, rigth = 455, 42.1296296296
+
+
+2015-06-05 00:09:34.295000
+RandomForestClassifier
+VecKmean 2, 13
+set = 150, trees = 50, max_depth = 10
+Train set: size = 16200, rigth = 14141, 87.2901234568
+Test set: size = 1080, rigth = 723, 66.9444444444
+
+
+2015-06-05 00:10:23.199000
+RandomForestClassifier
+VecKmean 2, 13
+set = 150, trees = 50, max_depth = 15
+Train set: size = 16200, rigth = 16056, 99.1111111111
+Test set: size = 1080, rigth = 830, 76.8518518519
+
+
+2015-06-05 00:11:12.751000
+RandomForestClassifier
+VecKmean 2, 13
+set = 150, trees = 50, max_depth = 20
+Train set: size = 16200, rigth = 16189, 99.9320987654
+Test set: size = 1080, rigth = 864, 80.0
+
+
+2015-06-05 00:12:04.505000
+RandomForestClassifier
+VecKmean 2, 13
+set = 150, trees = 50, max_depth = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 887, 82.1296296296
+
+
+2015-06-05 00:12:57.727000
+RandomForestClassifier
+VecKmean 2, 13
+set = 150, trees = 50, max_depth = 30
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 878, 81.2962962963
+
+
+2015-06-05 00:13:53.044000
+RandomForestClassifier
+VecKmean 2, 13
+set = 150, trees = 50, max_depth = 35
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 866, 80.1851851852
+
+
+2015-06-05 00:14:48.676000
+RandomForestClassifier
+VecKmean 2, 13
+set = 150, trees = 50, max_depth = 40
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 882, 81.6666666667
+
+
+2015-06-05 00:15:43.678000
+RandomForestClassifier
+VecKmean 2, 13
+set = 150, trees = 50, max_depth = 45
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 884, 81.8518518519
+////////////////////////////////////////////////////////////////////
+
+
+2015-06-05 01:01:23.400000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 50, max_depth = 5
+Train set: size = 16200, rigth = 7915, 48.8580246914
+Test set: size = 1080, rigth = 477, 44.1666666667
+
+
+2015-06-05 01:01:54.150000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 50, max_depth = 10
+Train set: size = 16200, rigth = 13450, 83.024691358
+Test set: size = 1080, rigth = 677, 62.6851851852
+
+
+2015-06-05 01:02:33.967000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 50, max_depth = 15
+Train set: size = 16200, rigth = 16118, 99.4938271605
+Test set: size = 1080, rigth = 747, 69.1666666667
+
+
+2015-06-05 01:03:20.175000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 50, max_depth = 20
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 765, 70.8333333333
+
+
+2015-06-05 01:04:06.568000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 50, max_depth = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 769, 71.2037037037
+
+
+2015-06-05 01:04:51.392000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 50, max_depth = 30
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 749, 69.3518518519
+
+
+2015-06-05 01:05:30.182000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 50, max_depth = 35
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 750, 69.4444444444
+
+
+2015-06-05 01:06:14.681000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 50, max_depth = 40
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 753, 69.7222222222
+
+
+2015-06-05 01:06:58.489000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 50, max_depth = 45
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 752, 69.6296296296
+//////////////////////////////////////////////////////////////////
+
+
+2015-06-05 01:53:11.666000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 10, max_depth = 50, clean_index=gini
+Train set: size = 16200, rigth = 16181, 99.8827160494
+Test set: size = 1080, rigth = 627, 58.0555555556
+
+
+2015-06-05 01:53:23.337000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 20, max_depth = 50, clean_index=gini
+Train set: size = 16200, rigth = 16199, 99.9938271605
+Test set: size = 1080, rigth = 686, 63.5185185185
+
+
+2015-06-05 01:53:31.629000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 30, max_depth = 50, clean_index=gini
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 738, 68.3333333333
+
+
+2015-06-05 01:53:41.210000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 40, max_depth = 50, clean_index=gini
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 736, 68.1481481481
+
+
+2015-06-05 01:53:53.325000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 50, max_depth = 50, clean_index=gini
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 744, 68.8888888889
+
+
+2015-06-05 01:54:08.023000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 60, max_depth = 50, clean_index=gini
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 760, 70.3703703704
+
+
+2015-06-05 01:54:39.793000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 70, max_depth = 50, clean_index=gini
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 758, 70.1851851852
+
+
+2015-06-05 01:55:19.619000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 80, max_depth = 50, clean_index=gini
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 792, 73.3333333333
+
+
+2015-06-05 01:55:48.464000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 90, max_depth = 50, clean_index=gini
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 790, 73.1481481481
+
+
+2015-06-05 01:56:24.624000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 100, max_depth = 50, clean_index=gini
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 780, 72.2222222222
+///////////////////////////////////////////////////////////////////
+
+
+2015-06-05 02:16:19.672000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 10, max_depth = 50, clean_index=entropy
+Train set: size = 16200, rigth = 16157, 99.7345679012
+Test set: size = 1080, rigth = 602, 55.7407407407
+
+
+2015-06-05 02:17:08.958000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 20, max_depth = 50, clean_index=entropy
+Train set: size = 16200, rigth = 16199, 99.9938271605
+Test set: size = 1080, rigth = 682, 63.1481481481
+
+
+2015-06-05 02:19:35.306000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 30, max_depth = 50, clean_index=entropy
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 686, 63.5185185185
+
+
+2015-06-05 02:21:36.485000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 40, max_depth = 50, clean_index=entropy
+Train set: size = 16200, rigth = 16199, 99.9938271605
+Test set: size = 1080, rigth = 729, 67.5
+
+
+2015-06-05 02:26:01.910000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 50, max_depth = 50, clean_index=entropy
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 729, 67.5
+
+
+2015-06-05 02:30:35.790000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 60, max_depth = 50, clean_index=entropy
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 745, 68.9814814815
+
+
+2015-06-05 02:36:55.441000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 70, max_depth = 50, clean_index=entropy
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 737, 68.2407407407
+
+
+2015-06-05 02:40:14.395000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 80, max_depth = 50, clean_index=entropy
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 736, 68.1481481481
+
+
+2015-06-05 02:44:05.778000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 90, max_depth = 50, clean_index=entropy
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 749, 69.3518518519
+
+
+2015-06-05 02:49:32.442000
+RandomForestClassifier
+VecAver 13
+set = 150, trees = 100, max_depth = 50, clean_index=entropy
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 751, 69.537037037
+/////////////////////////////////////////////////////////////////////
+
+
+2015-06-05 19:20:47.587000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 100, max_depth = 50, n_clusters = 1
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1016, 94.0740740741
+
+
+2015-06-05 20:16:54.729000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 100, max_depth = 50, n_clusters = 2
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1026, 95.0
+
+
+2015-06-05 21:23:35.780000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 100, max_depth = 50, n_clusters = 3
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 991, 91.7592592593
+
+
+2015-06-05 22:22:29.488000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 100, max_depth = 50, n_clusters = 4
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 915, 84.7222222222
+
+
+2015-06-05 23:06:17.742000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 100, max_depth = 50, n_clusters = 5
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 835, 77.3148148148
+
+
+2015-06-05 23:51:56.063000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 100, max_depth = 50, n_clusters = 6
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 789, 73.0555555556
+
+
+2015-06-06 00:40:44.201000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 100, max_depth = 50, n_clusters = 7
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 733, 67.8703703704
+
+
+2015-06-06 01:32:01.035000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 100, max_depth = 50, n_clusters = 8
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 708, 65.5555555556
+
+
+2015-06-06 02:22:30.446000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 100, max_depth = 50, n_clusters = 9
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 651, 60.2777777778
+////////////////////////////////////////////////////////////////////
+
+
+2015-06-06 13:20:43.856000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 80, max_depth = 25, random_state=None
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1021, 94.537037037
+/////////////////////////////////////////////////////////////////////
+
+
+2015-06-06 14:58:50.628000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 10, max_depth = 25
+Train set: size = 16200, rigth = 16186, 99.9135802469
+Test set: size = 1080, rigth = 824, 76.2962962963
+
+
+2015-06-06 14:59:01.166000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 20, max_depth = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 932, 86.2962962963
+
+
+2015-06-06 14:59:17.197000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 30, max_depth = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 969, 89.7222222222
+
+
+2015-06-06 14:59:47.168000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 40, max_depth = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 990, 91.6666666667
+
+
+2015-06-06 15:00:28.091000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 50, max_depth = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1014, 93.8888888889
+
+
+2015-06-06 15:01:33.687000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 60, max_depth = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1001, 92.6851851852
+
+
+2015-06-06 15:03:13.545000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 70, max_depth = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1013, 93.7962962963
+
+
+2015-06-06 15:04:15.785000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 80, max_depth = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1017, 94.1666666667
+
+
+2015-06-06 15:05:09.575000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 90, max_depth = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1026, 95.0
+
+
+2015-06-06 15:06:18.688000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 100, max_depth = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1032, 95.5555555556
+
+
+2015-06-06 15:40:37.867000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 110, max_depth = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1031, 95.462962963
+
+
+2015-06-06 15:41:50.816000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 120, max_depth = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1030, 95.3703703704
+
+
+2015-06-06 15:43:24.831000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 130, max_depth = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1029, 95.2777777778
+
+
+2015-06-06 15:45:36.374000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 140, max_depth = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1028, 95.1851851852
+
+
+2015-06-06 15:47:29.410000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 150, max_depth = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1034, 95.7407407407
+//////////////////////////////////////////////////////////////
+
+
+2015-06-07 13:35:35.313000
+RandomForestClassifier
+Kmeans-2, mfcc = 26
+set = 150, trees = 100, max_depth = 5
+Train set: size = 16200, rigth = 10939, 67.524691358
+Test set: size = 1080, rigth = 638, 59.0740740741
+
+
+2015-06-07 14:05:46.405000
+RandomForestClassifier
+Kmeans-2, mfcc = 26
+set = 150, trees = 100, max_depth = 10
+Train set: size = 16200, rigth = 15792, 97.4814814815
+Test set: size = 1080, rigth = 924, 85.5555555556
+
+
+2015-06-06 16:39:53.763000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 100, max_depth = 15
+Train set: size = 16200, rigth = 16196, 99.975308642
+Test set: size = 1080, rigth = 989, 91.5740740741
+
+
+2015-06-06 16:40:54.853000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 100, max_depth = 20
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1015, 93.9814814815
+
+
+2015-06-06 16:41:49.505000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 100, max_depth = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1025, 94.9074074074
+
+
+2015-06-06 16:42:41.237000
+RandomForestClassifier
+Kmeans, mfcc = 26
+set = 150, trees = 100, max_depth = 30
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1022, 94.6296296296
+/////////////////////////////////////////////////////////////////
+
+
+2015-06-17 16:12:20.825000
+RandomForestClassifier
+Kmeans-2, mfcc = 26
+set = 150, trees = 100, max_depth = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 1080, rigth = 1025, 94.9074074074
+
+
+2015-06-17 19:56:32.925000
+RandomForestClassifier
+Kmeans-2, mfcc = 26
+set = 150, trees = 100, max_depth = 25
+Train set: size = 16200, rigth = 16200, 100.0
+Test set: size = 2160, rigth = 2056, 95.1851851852
+
