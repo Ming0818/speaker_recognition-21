@@ -1,0 +1,25 @@
+1. Введение
+	Что такое Speaker Recognition
+	Зачем нужно распознавание(можно добавить различие в условиях записи, о принятии решения принадлежит/не принадлежит, верификация/идентификация)
+	Основная проблема: session variability
+	Принцип работы
+	Что такое речь
+	Обзор предыдущих работ
+	Цель работы, обоснованность, новизна
+	2008 - REAL TIME SPEAKER RECOGNITION USING MFCC AND VQ
+	2011 - AnOverviewofText-IndependentSpeakerRecognition
+	2012 - Аналитический обзор. Распознавание личности по голосу
+
+2. Теоретическая часть
+	2.1. Выделение особенностей
+		2011 - AnOverviewofText-IndependentSpeakerRecognition
+		Real time speaker recognition using mfcc and vq
+		http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
+	2.2. Супервекторы
+	2011 - AnOverviewofText-IndependentSpeakerRecognition
+	https://en.wikipedia.org/wiki/K-means_clustering
+	2.3. Алгоритм обучения, модель диктора
+
+3. Результаты
+
+4. Вывод
