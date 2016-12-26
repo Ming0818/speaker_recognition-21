@@ -9,3 +9,7 @@
   4. recognition.py - Algorithm preparing methods.
   5. results-*.txt - results of speaker identity and gender recognition.
   6. speaker-info.txt - Speaker's base information.
+
+###Used dataset could be downloaded from:
+
+  http://homepages.inf.ed.ac.uk/jyamagis/page3/page58/page58.html
